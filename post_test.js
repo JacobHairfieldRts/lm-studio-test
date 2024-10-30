@@ -4,7 +4,7 @@ async function chatCompletions(prompt) {
     const url = 'http://localhost:1234/v1/chat/completions';
 
     const body = {
-        model: 'your-model-name', // Replace with the actual model name from the `/v1/models` response
+        model: 'llama', // Replace with the actual model name from the `/v1/models` response
         messages: [{ role: 'user', content: prompt }], // The user's message
     };
 

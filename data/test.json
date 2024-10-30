@@ -1,0 +1,106 @@
+{
+"objects": [
+{
+    "id": 2,
+    "chars": [],
+    "disabled": false,
+    "equip": [],
+    "minis": 1,
+    "orders": [
+      {
+        "type": "REGULAR",
+        "list": 1,
+        "total": 1
+      }
+    ],
+    "includes": [],
+    "points": 33,
+    "swc": "1.5",
+    "weapons": [
+      {
+        "id": 2,
+        "order": 1
+      },
+      {
+        "id": 69,
+        "order": 2
+      },
+      {
+        "id": 5,
+        "order": 3
+      }
+    ],
+    "name": "MAAKREP TRACKER",
+    "skills": [],
+    "peripheral": []
+  },
+  {
+    "id": 2,
+    "chars": [],
+    "disabled": false,
+    "equip": [],
+    "minis": 1,
+    "orders": [
+      {
+        "type": "REGULAR",
+        "list": 1,
+        "total": 1
+      }
+    ],
+    "includes": [],
+    "points": 69,
+    "swc": "1.5",
+    "weapons": [
+      {
+        "id": 2,
+        "order": 1
+      },
+      {
+        "id": 69,
+        "order": 2
+      },
+      {
+        "id": 5,
+        "order": 3
+      }
+    ],
+    "name": "MAAKREP TRACKER",
+    "skills": [],
+    "peripheral": []
+  },
+  {
+    "id": 2,
+    "chars": [],
+    "disabled": false,
+    "equip": [],
+    "minis": 1,
+    "orders": [
+      {
+        "type": "REGULAR",
+        "list": 1,
+        "total": 1
+      }
+    ],
+    "includes": [],
+    "points": 22,
+    "swc": "1.5",
+    "weapons": [
+      {
+        "id": 2,
+        "order": 1
+      },
+      {
+        "id": 69,
+        "order": 2
+      },
+      {
+        "id": 5,
+        "order": 3
+      }
+    ],
+    "name": "MAAKREP TRACKER",
+    "skills": [],
+    "peripheral": []
+  }
+]
+}
